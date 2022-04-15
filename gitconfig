@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gribius.alexander@outlook.com
+	name = Alexander Gribius
